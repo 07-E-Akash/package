@@ -1,6 +1,4 @@
 import p1.demo1;
-
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Test extends  demo1{
